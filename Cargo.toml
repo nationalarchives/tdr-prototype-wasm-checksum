@@ -1,6 +1,6 @@
 [package]
 name = "checksum-calculator"
-version = "0.1.4"
+version = "0.1.5"
 authors = ["Sam <github@sampalmer.dev>"]
 edition = "2018"
 
